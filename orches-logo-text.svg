@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="1536"
-   height="512"
-   viewBox="0 0 406.39998 135.46667"
+   width="1400"
+   height="450"
+   viewBox="0 0 370.41661 119.06248"
    version="1.1"
    id="svg1"
    inkscape:export-filename="bitmap.png"
@@ -27,10 +27,10 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     showgrid="true"
-     inkscape:zoom="0.52066091"
-     inkscape:cx="591.55584"
-     inkscape:cy="456.15101"
+     showgrid="false"
+     inkscape:zoom="0.45216209"
+     inkscape:cx="767.42391"
+     inkscape:cy="536.3121"
      inkscape:window-width="1920"
      inkscape:window-height="1057"
      inkscape:window-x="0"
@@ -50,7 +50,7 @@
        opacity="0.14901961"
        empspacing="5"
        enabled="true"
-       visible="true" />
+       visible="false" />
   </sodipodi:namedview>
   <defs
      id="defs1">
@@ -74,10 +74,10 @@
        id="rect1" />
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="-28.444256 : 123.66736 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="166.77442 : 127.67627 : 1"
-       inkscape:persp3d-origin="59.333684 : 37.90132 : 1"
+       inkscape:vp_x="-18.814688 : 65.396628 : 1"
+       inkscape:vp_y="0 : 661.45822 : 0"
+       inkscape:vp_z="110.31432 : 68.048354 : 1"
+       inkscape:persp3d-origin="39.246753 : 8.6659759 : 1"
        id="perspective5" />
     <linearGradient
        id="linearGradient1"
@@ -100,44 +100,43 @@
        x2="67.73333"
        y2="125.57635"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.85148515,0,0,0.85148515,10.059405,10.059405)" />
+       gradientTransform="matrix(0.63513065,0,0,0.63513065,14.939082,16.511735)" />
   </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1"
-     sodipodi:insensitive="true">
+     id="layer1">
     <circle
-       style="opacity:1;fill:#20172a;fill-opacity:1;stroke-width:0.491592"
+       style="opacity:1;fill:#20172a;fill-opacity:1;stroke-width:0.366683"
        id="circle3"
-       cx="67.73333"
-       cy="67.73333"
-       r="59.942932" />
+       cx="57.958599"
+       cy="59.53125"
+       r="44.711987" />
     <circle
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.439928"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.328146"
        id="circle4"
-       cx="67.73333"
-       cy="67.73333"
-       r="53.643196" />
+       cx="57.958599"
+       cy="59.53125"
+       r="40.012955" />
     <circle
-       style="opacity:1;fill:url(#linearGradient2);fill-opacity:1;stroke-width:0.403919"
+       style="opacity:1;fill:url(#linearGradient2);fill-opacity:1;stroke-width:0.301287"
        id="path1"
-       cx="67.73333"
-       cy="67.73333"
-       r="49.252476" />
+       cx="57.958599"
+       cy="59.53125"
+       r="36.737877" />
     <circle
-       style="opacity:1;fill:#20172a;fill-opacity:1;stroke-width:0.29746"
+       style="opacity:1;fill:#20172a;fill-opacity:1;stroke-width:0.221878"
        id="circle5"
-       cx="67.73333"
-       cy="67.73333"
-       r="36.271202" />
+       cx="57.958599"
+       cy="59.53125"
+       r="27.055025" />
     <rect
-       style="opacity:1;fill:#20172a;fill-opacity:1;stroke:#000000;stroke-width:0.241959;stroke-opacity:1"
+       style="opacity:1;fill:#20172a;fill-opacity:1;stroke:#000000;stroke-width:0.180479;stroke-opacity:1"
        id="rect5"
-       width="119.14487"
-       height="6.3223586"
-       x="8.1608973"
-       y="64.572151" />
+       width="88.871262"
+       height="4.7159057"
+       x="13.522967"
+       y="57.173294" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -145,7 +144,7 @@
      inkscape:label="Layer 2">
     <g
        id="g32"
-       transform="matrix(1.3197027,0,0,1.3197027,-21.656666,-15.945543)">
+       transform="matrix(0.98437845,0,0,0.98437845,-8.7182288,-2.8855954)">
       <path
          style="fill:#20172a;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
          d="M 67.234312,62.527567 51.389525,53.746118"
@@ -186,13 +185,13 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:70.5556px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#20172a;fill-opacity:1;stroke-width:0.264583"
-       x="269.69284"
-       y="90.240128"
+       x="239.58914"
+       y="81.070641"
        id="text4"><tspan
          sodipodi:role="line"
          id="tspan4"
          style="font-size:70.5556px;stroke-width:0.264583"
-         x="269.69284"
-         y="90.240128">orches</tspan></text>
+         x="239.58914"
+         y="81.070641">orches</tspan></text>
   </g>
 </svg>
